@@ -1,0 +1,7 @@
+name: 'Events Management'
+type: module
+description: 'A custom module to manage events with CRUD operations.'
+core_version_requirement: ^9 || ^10
+package: Custom
+dependencies:
+  - node:node
